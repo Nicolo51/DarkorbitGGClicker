@@ -1,5 +1,5 @@
 # DarkorbitGGClicker
-A  darkorbit gg clicker that do all the boring stuff for you
+A  darkorbit gg clicker that does all the boring stuff for you
 
 # How to use it 
 
