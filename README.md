@@ -1,7 +1,7 @@
 # DarkorbitGGClicker
 A  darkorbit gg clicker that do all the boring stuff for you
 
-#How to use it 
+# How to use it 
 
 - go to https://github.com/Nicolo51/DarkorbitGGClicker
 - click on "Code" button
