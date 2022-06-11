@@ -11,3 +11,4 @@ A  darkorbit gg clicker that do all the boring stuff for you
 - Type 'dotnet run'
 - Follow the instructions on the command prompt 
 - Press the scroll wheel on your mouse to stop the program 
+- Enjoy !
