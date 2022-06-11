@@ -12,3 +12,5 @@ A  darkorbit gg clicker that do all the boring stuff for you
 - Follow the instructions on the command prompt 
 - Press the scroll wheel on your mouse to stop the program 
 - Enjoy !
+
+![alt text](https://cdn.discordapp.com/attachments/457571640575000606/985212371641466890/Do_auto_clicker.gif)
